@@ -1,0 +1,1646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="483a3496-0d53-4c86-afc1-360c548aec71" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="myHome.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/myHome.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-19800">
+              <caret line="44" column="91" lean-forward="true" selection-start-line="44" selection-start-column="91" selection-end-line="44" selection-end-column="91" />
+              <folding>
+                <marker date="1612587989470" expanded="true" signature="122:185" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trigBtns.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jquery/trigBtns.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="12" column="80" lean-forward="false" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trig_ajax.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/trig_ajax.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="funcBtns.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jquery/funcBtns.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9349">
+              <caret line="206" column="0" lean-forward="true" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spBtns.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jquery/spBtns.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7560">
+              <caret line="360" column="35" lean-forward="true" selection-start-line="360" selection-start-column="35" selection-end-line="360" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="func_ajax.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/func_ajax.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataBaseClass.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/DataBaseClass.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="537" column="61" lean-forward="true" selection-start-line="537" selection-start-column="61" selection-end-line="537" selection-end-column="61" />
+              <folding>
+                <marker date="1612602630059" expanded="true" signature="368:399" ph="select * fro... art" />
+                <marker date="1612602630059" expanded="true" signature="368:400" ph="select * fro... art" />
+                <marker date="1612602630059" expanded="true" signature="1592:1610" ph="SELECT * FRO... logs" />
+                <marker date="1612602630059" expanded="true" signature="1674:1704" ph="DELETE FROM " />
+                <marker date="1612602630059" expanded="true" signature="1789:1810" ph="SELECT * FRO... message" />
+                <marker date="1612602630059" expanded="true" signature="1875:1924" ph="DELETE FROM " />
+                <marker date="1612602630059" expanded="true" signature="2009:2030" ph="SELECT * FRO... message" />
+                <marker date="1612602630059" expanded="true" signature="2094:2156" ph="UPDATE artis... " />
+                <marker date="1612602630059" expanded="true" signature="2094:2165" ph="UPDATE artis... " />
+                <marker date="1612602630059" expanded="true" signature="2250:2268" ph="SELECT * FRO... logs" />
+                <marker date="1612602630059" expanded="true" signature="2332:2376" ph="DELETE FROM " />
+                <marker date="1612602630059" expanded="true" signature="2461:2482" ph="SELECT * FRO... message" />
+                <marker date="1612602630059" expanded="true" signature="2546:2588" ph="DELETE FROM " />
+                <marker date="1612602630059" expanded="true" signature="2674:2695" ph="SELECT * FRO... message" />
+                <marker date="1612602630059" expanded="true" signature="2759:2797" ph="DELETE FROM " />
+                <marker date="1612602630059" expanded="true" signature="2883:2904" ph="SELECT * FRO... message" />
+                <marker date="1612602630059" expanded="true" signature="3267:3322" ph="SELECT * FRO... f_get_visitor_ed_by_gallery_id" />
+                <marker date="1612602630059" expanded="true" signature="3389:3435" ph="SELECT * FRO... f_get_owner_on_display" />
+                <marker date="1612602630059" expanded="true" signature="3502:3550" ph="SELECT * FRO... f_get_worker_by_art" />
+                <marker date="1612602630059" expanded="true" signature="3617:3664" ph="SELECT * FRO... A" />
+                <marker date="1612602630059" expanded="true" signature="3730:3781" ph="SELECT * FRO... A" />
+                <marker date="1612602630059" expanded="true" signature="3847:3898" ph="SELECT * FRO... A" />
+                <marker date="1612602630059" expanded="true" signature="3964:3993" ph="SELECT * FRO... A" />
+                <marker date="1612602630059" expanded="true" signature="4059:4112" ph="SELECT * FRO... A" />
+                <marker date="1612602630059" expanded="true" signature="4178:4227" ph="SELECT * FRO... A" />
+                <marker date="1612602630059" expanded="true" signature="4294:4345" ph="SELECT * FRO... A" />
+                <marker date="1612602630059" expanded="true" signature="7754:7780" ph="select * fro... v_art_artist" />
+                <marker date="1612602630059" expanded="true" signature="7844:7871" ph="select * fro... v_art_gallery" />
+                <marker date="1612602630059" expanded="true" signature="7935:7970" ph="select * fro... v_art_ownership_owner" />
+                <marker date="1612602630059" expanded="true" signature="8034:8076" ph="select * fro... v_art_artist_ownership_owner" />
+                <marker date="1612602630059" expanded="true" signature="8140:8183" ph="select * fro... v_art_ownership_owner_gallery" />
+                <marker date="1612602630059" expanded="true" signature="8247:8290" ph="select * fro... v_art_painting_writing_statue" />
+                <marker date="1612602630059" expanded="true" signature="8354:8396" ph="select * fro... v_art_gallery_holding_museum" />
+                <marker date="1612602630059" expanded="true" signature="8460:8517" ph="select * fro... v_visitor_visitation_gallery_holding_museum" />
+                <marker date="1612602630059" expanded="true" signature="8581:8623" ph="select * fro... v_visitor_visitation_gallery" />
+                <marker date="1612602630059" expanded="true" signature="8688:8716" ph="select * fro... v_staff_museum" />
+                <marker date="1612602630059" expanded="true" signature="8781:8809" ph="select * fro... v_art_painting" />
+                <marker date="1612602630059" expanded="true" signature="8874:8900" ph="select * fro... v_art_statue" />
+                <marker date="1612602630059" expanded="true" signature="8965:8992" ph="select * fro... v_art_writing" />
+                <marker date="1612602630059" expanded="true" signature="9057:9095" ph="select * fro... v_gallery_holding_museum" />
+                <marker date="1612602630059" expanded="true" signature="9160:9208" ph="select * fro... v_art_gallery_holding_museum_staff" />
+                <marker date="1612602630059" expanded="true" signature="9623:9663" ph="SELECT * FRO... " />
+                <marker date="1612602630059" expanded="true" signature="9623:9671" ph="SELECT * FRO... " />
+                <marker date="1612602630059" expanded="true" signature="9737:9788" ph="SELECT *FROM... " />
+                <marker date="1612602630059" expanded="true" signature="9853:9991" ph="SELECT * FRO... " />
+                <marker date="1612602630059" expanded="true" signature="10057:10193" ph="SELECT *FROM... " />
+                <marker date="1612602630059" expanded="true" signature="10259:10411" ph="SELECT * FRO... " />
+                <marker date="1612602630059" expanded="true" signature="10476:10727" ph="SELECT owner... " />
+                <marker date="1612602630059" expanded="true" signature="10791:11107" ph="SELECT staff... " />
+                <marker date="1612602630059" expanded="true" signature="11171:11383" ph="SELECT * FRO... " />
+                <marker date="1612602630059" expanded="true" signature="11447:11708" ph="SELECT * FRO... " />
+                <marker date="1612602630059" expanded="true" signature="11447:11709" ph="SELECT * FRO... " />
+                <marker date="1612602630059" expanded="true" signature="11774:11988" ph="SELECT * FRO... " />
+                <marker date="1612602630059" expanded="true" signature="12053:12286" ph="SELECT * FRO... " />
+                <marker date="1612602630059" expanded="true" signature="12351:12582" ph="SELECT * FRO... " />
+                <marker date="1612602630059" expanded="true" signature="12647:12797" ph="SELECT owner... " />
+                <marker date="1612602630059" expanded="true" signature="12862:12924" ph="SELECT * FRO... " />
+                <marker date="1612602630059" expanded="true" signature="12989:13243" ph="SELECT visit... " />
+                <marker date="1612602630059" expanded="true" signature="13308:13543" ph="SELECT owner... " />
+                <marker date="1612602630059" expanded="true" signature="13608:13848" ph="SELECT owner... " />
+                <marker date="1612602630059" expanded="true" signature="13913:14151" ph="SELECT owner... " />
+                <marker date="1612602630059" expanded="true" signature="14216:14441" ph="SELECT owner... " />
+                <marker date="1612602630059" expanded="true" signature="14506:14642" ph="SELECT artis... " />
+                <marker date="1612602630059" expanded="true" signature="14707:14903" ph="SELECT artis... " />
+                <marker date="1612602630059" expanded="true" signature="14968:15169" ph="SELECT artis... " />
+                <marker date="1612602630059" expanded="true" signature="15234:15433" ph="SELECT artis... " />
+                <marker date="1612602630059" expanded="true" signature="15498:15642" ph="SELECT * FRO... " />
+                <marker date="1612602630059" expanded="true" signature="15707:15872" ph="SELECT visit... " />
+                <marker date="1612602630059" expanded="true" signature="15937:15993" ph="SELECT staff... " />
+                <marker date="1612602630059" expanded="true" signature="16058:16111" ph="SELECT staff... " />
+                <marker date="1612602630059" expanded="true" signature="16176:16222" ph="DELETE FROM " />
+                <marker date="1612602630059" expanded="true" signature="16374:16430" ph="DELETE FROM " />
+                <marker date="1612602630059" expanded="true" signature="16582:16638" ph="DELETE FROM " />
+                <marker date="1612602630059" expanded="true" signature="16790:16842" ph="DELETE FROM " />
+                <marker date="1612602630059" expanded="true" signature="16994:17048" ph="DELETE FROM " />
+                <marker date="1612602630059" expanded="true" signature="17200:17408" ph="INSERT INTO " />
+                <marker date="1612602630059" expanded="true" signature="17560:17718" ph="INSERT INTO " />
+                <marker date="1612602630059" expanded="true" signature="17870:17954" ph="INSERT INTO " />
+                <marker date="1612602630059" expanded="true" signature="18106:18295" ph="INSERT INTO " />
+                <marker date="1612602630059" expanded="true" signature="18447:18662" ph="INSERT INTO " />
+                <marker date="1612602630059" expanded="true" signature="18814:19053" ph="INSERT INTO " />
+                <marker date="1612602630059" expanded="true" signature="19205:19430" ph="INSERT INTO " />
+                <marker date="1612602630059" expanded="true" signature="19582:19706" ph="INSERT INTO " />
+                <marker date="1612602630059" expanded="true" signature="19858:19975" ph="INSERT INTO " />
+                <marker date="1612602630059" expanded="true" signature="20128:20291" ph="INSERT INTO " />
+                <marker date="1612602630059" expanded="true" signature="20661:20729" ph="UPDATE writi... " />
+                <marker date="1612602630059" expanded="true" signature="20882:20954" ph="UPDATE paint... " />
+                <marker date="1612602630059" expanded="true" signature="21418:21469" ph="select * fro... users" />
+                <marker date="1612602630059" expanded="true" signature="21495:21583" ph="select * fro... users" />
+                <marker date="1612602630059" expanded="true" signature="21811:21868" ph="select user_... users" />
+                <marker date="1612602630059" expanded="true" signature="22334:22385" ph="select * fro... users" />
+                <marker date="1612602630059" expanded="true" signature="22412:22463" ph="select * fro... users" />
+                <marker date="1612602630059" expanded="true" signature="22489:22666" ph="INSERT INTO users... " />
+                <marker date="1612602630059" expanded="true" signature="23076:23133" ph="select user_... users" />
+                <marker date="1612602630059" expanded="true" signature="23333:23433" ph="INSERT INTO items... " />
+                <marker date="1612602630059" expanded="true" signature="23333:23451" ph="INSERT INTO items... " />
+                <marker date="1612602630059" expanded="true" signature="23333:23472" ph="INSERT INTO items... " />
+                <marker date="1612602630059" expanded="true" signature="23333:23489" ph="INSERT INTO items... " />
+                <marker date="1612602630059" expanded="true" signature="23333:23504" ph="INSERT INTO items... " />
+                <marker date="1612602630059" expanded="true" signature="23333:23506" ph="INSERT INTO items... " />
+                <marker date="1612602630059" expanded="true" signature="23333:23523" ph="INSERT INTO story... " />
+                <marker date="1612602630059" expanded="true" signature="23659:23702" ph="select * fro... items" />
+                <marker date="1612602630059" expanded="true" signature="23659:23717" ph="select * fro... items" />
+                <marker date="1612602630059" expanded="true" signature="23659:23736" ph="select * fro... items" />
+                <marker date="1612602630059" expanded="true" signature="23659:23754" ph="select * fro... items" />
+                <marker date="1612602630059" expanded="true" signature="23659:23769" ph="select * fro... items" />
+                <marker date="1612602630059" expanded="true" signature="23659:23783" ph="select * fro... items" />
+                <marker date="1612602630059" expanded="true" signature="23659:23798" ph="select * fro... items" />
+                <marker date="1612602630059" expanded="true" signature="23659:23812" ph="select * fro... items" />
+                <marker date="1612602630059" expanded="true" signature="23659:23829" ph="select * fro... items" />
+                <marker date="1612602630059" expanded="true" signature="23659:23845" ph="select * fro... items" />
+                <marker date="1612602630059" expanded="true" signature="23974:24024" ph="select * fro... story" />
+                <marker date="1612602630059" expanded="true" signature="24228:24280" ph="select * fro... users" />
+                <marker date="1612602630059" expanded="true" signature="24830:24844" ph="select * fro... story" />
+                <marker date="1612602630059" expanded="true" signature="24830:24849" ph="select * fro... items" />
+                <marker date="1612602630059" expanded="true" signature="24898:24951" ph="select * fro... story" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AMD JavaScript File" />
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selec</find>
+      <find>hor</find>
+      <find>third</find>
+      <find>footer</find>
+      <find>cu</find>
+      <find>sec_</find>
+      <find>second</find>
+      <find>bor</find>
+      <find>border</find>
+      <find>thi</find>
+      <find>type</find>
+      <find>for</find>
+      <find>firs</find>
+      <find>pos</find>
+      <find>he</find>
+      <find>headers</find>
+      <find>header-</find>
+      <find>c</find>
+      <find>pre</find>
+      <find>price</find>
+      <find>&lt;p</find>
+      <find>title</find>
+      <find>price_ki</find>
+      <find>price_nu</find>
+      <find>div2</find>
+      <find>value</find>
+      <find>hea</find>
+      <find>#</find>
+      <find>sea</find>
+      <find>sec</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/style/css/home.css" />
+        <option value="$PROJECT_DIR$/html/home.html" />
+        <option value="$PROJECT_DIR$/html/myLogin.html" />
+        <option value="$PROJECT_DIR$/html/myHome.html" />
+        <option value="$PROJECT_DIR$/html/mySignup.html" />
+        <option value="$PROJECT_DIR$/html/myWriting.html" />
+        <option value="$PROJECT_DIR$/html/myReading.html" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/IEWebsite/IEAPP/views.py" />
+        <option value="$PROJECT_DIR$/IEWebsite/ieApp/views.py" />
+        <option value="$PROJECT_DIR$/html/loginredic.html" />
+        <option value="$PROJECT_DIR$/style/css/mylogin.css" />
+        <option value="$PROJECT_DIR$/html/logIN.html" />
+        <option value="$PROJECT_DIR$/php/classes/DataBaseClass.php" />
+        <option value="$PROJECT_DIR$/php/classes/logOut.php" />
+        <option value="$PROJECT_DIR$/php/logOut.php" />
+        <option value="$PROJECT_DIR$/style/css/myReading.css" />
+        <option value="$PROJECT_DIR$/style/css/myWriting.css" />
+        <option value="$PROJECT_DIR$/html/s.html" />
+        <option value="$PROJECT_DIR$/style/css/myLogin.css" />
+        <option value="$PROJECT_DIR$/style/css/mySignup.css" />
+        <option value="$PROJECT_DIR$/html/myWriting.php" />
+        <option value="$PROJECT_DIR$/html/myReading.php" />
+        <option value="$PROJECT_DIR$/style/css/myItem.css" />
+        <option value="$PROJECT_DIR$/html/myLogin.php" />
+        <option value="$PROJECT_DIR$/style/css/myNewPost.css" />
+        <option value="$PROJECT_DIR$/html/mySignup.php" />
+        <option value="$PROJECT_DIR$/html/myItem.php" />
+        <option value="$PROJECT_DIR$/html/myNewPost.php" />
+        <option value="$PROJECT_DIR$/js/jquery/sectionContentAjax.js" />
+        <option value="$PROJECT_DIR$/js/jquery/categoriesAjax.js" />
+        <option value="$PROJECT_DIR$/js/jquery/btns.js" />
+        <option value="$PROJECT_DIR$/js/jquery/viewbtns.js" />
+        <option value="$PROJECT_DIR$/js/jquery/trigBtn.js" />
+        <option value="$PROJECT_DIR$/php/views_php.php" />
+        <option value="$PROJECT_DIR$/js/jquery/categories.js" />
+        <option value="$PROJECT_DIR$/php/view_ajax.php" />
+        <option value="$PROJECT_DIR$/php/ajax.php" />
+        <option value="$PROJECT_DIR$/style/css/myHome.css" />
+        <option value="$PROJECT_DIR$/php/sp_ajax.php" />
+        <option value="$PROJECT_DIR$/js/jquery/myInit.js" />
+        <option value="$PROJECT_DIR$/php/q_ajax.php" />
+        <option value="$PROJECT_DIR$/js/jquery/spBtns.js" />
+        <option value="$PROJECT_DIR$/js/jquery/viewBtns.js" />
+        <option value="$PROJECT_DIR$/js/jquery/qBtns.js" />
+        <option value="$PROJECT_DIR$/php/trig_ajax.php" />
+        <option value="$PROJECT_DIR$/js/jquery/trigBtns.js" />
+        <option value="$PROJECT_DIR$/html/myHome.php" />
+        <option value="$PROJECT_DIR$/php/DataBaseClass.php" />
+        <option value="$PROJECT_DIR$/js/jquery/funcBtns.js" />
+        <option value="$PROJECT_DIR$/php/func_ajax.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-16" />
+    <option name="y" value="-16" />
+    <option name="width" value="3872" />
+    <option name="height" value="2116" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="php co&#9;null&#9;null&#10;label&#9;null&#9;null" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24447279" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\ie_project\php" />
+      <recent name="C:\Users\asus\onlineShop\js\jsFiles" />
+      <recent name="C:\Users\asus\onlineShop\js" />
+      <recent name="C:\Users\asus\onlineShop\js\jquery\jsFiles" />
+      <recent name="C:\Users\asus\onlineShop\backups\01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\onlineShop\pages" />
+      <recent name="C:\Users\asus\onlineShop\style\css" />
+      <recent name="C:\Users\asus\onlineShop\backups\02\960311 14" />
+      <recent name="C:\Users\asus\onlineShop\resourse" />
+      <recent name="C:\Users\asus\onlineShop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration default="false" name="home.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/html/home.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IEWebsite/IEAPP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineShop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IEWebsite/IEAPP/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineShop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineShop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="onlineShop" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineShop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="onlineShop" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineShop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineShop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineShop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineShop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="onlineShop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
+      <item index="1" class="java.lang.String" itemvalue="Python.views" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.views" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="483a3496-0d53-4c86-afc1-360c548aec71" name="Default" comment="" />
+      <created>1491716966572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491716966572</updated>
+      <workItem from="1491716972022" duration="13712000" />
+      <workItem from="1491795927926" duration="9335000" />
+      <workItem from="1491820731615" duration="6240000" />
+      <workItem from="1491886704166" duration="21528000" />
+      <workItem from="1491989506501" duration="371000" />
+      <workItem from="1491993369362" duration="644000" />
+      <workItem from="1492002791534" duration="2990000" />
+      <workItem from="1492018228088" duration="677000" />
+      <workItem from="1492019636973" duration="190000" />
+      <workItem from="1492065362889" duration="641000" />
+      <workItem from="1492429005558" duration="10630000" />
+      <workItem from="1492528870690" duration="628000" />
+      <workItem from="1492594016367" duration="7139000" />
+      <workItem from="1492621337532" duration="4000" />
+      <workItem from="1492687118014" duration="11750000" />
+      <workItem from="1492748310728" duration="18109000" />
+      <workItem from="1492780714728" duration="3689000" />
+      <workItem from="1492955795366" duration="10157000" />
+      <workItem from="1493024896005" duration="6967000" />
+      <workItem from="1493062943383" duration="382000" />
+      <workItem from="1493124014650" duration="38000" />
+      <workItem from="1493186765456" duration="7654000" />
+      <workItem from="1493195571843" duration="13504000" />
+      <workItem from="1493273583560" duration="13924000" />
+      <workItem from="1493310742308" duration="127000" />
+      <workItem from="1493452136020" duration="4754000" />
+      <workItem from="1493530936929" duration="4294000" />
+      <workItem from="1493620221595" duration="797000" />
+      <workItem from="1493808537441" duration="2158000" />
+      <workItem from="1493878220338" duration="422000" />
+      <workItem from="1494402544209" duration="36000" />
+      <workItem from="1494839153591" duration="599000" />
+      <workItem from="1494849237830" duration="7389000" />
+      <workItem from="1495873903770" duration="19000" />
+      <workItem from="1495873976827" duration="1608000" />
+      <workItem from="1495875608586" duration="599000" />
+      <workItem from="1496155325755" duration="353000" />
+      <workItem from="1496222717341" duration="60000" />
+      <workItem from="1496222818456" duration="19820000" />
+      <workItem from="1496243421284" duration="1792000" />
+      <workItem from="1496299756252" duration="23560000" />
+      <workItem from="1496324770078" duration="11177000" />
+      <workItem from="1496353047268" duration="1812000" />
+      <workItem from="1496385404648" duration="21103000" />
+      <workItem from="1496411798505" duration="5672000" />
+      <workItem from="1496475490611" duration="3143000" />
+      <workItem from="1496487108410" duration="6273000" />
+      <workItem from="1496493443204" duration="374000" />
+      <workItem from="1496494270115" duration="2373000" />
+      <workItem from="1496564897449" duration="3842000" />
+      <workItem from="1496576264681" duration="674000" />
+      <workItem from="1496576963378" duration="1730000" />
+      <workItem from="1496586068566" duration="665000" />
+      <workItem from="1496586987055" duration="2738000" />
+      <workItem from="1496589757908" duration="2595000" />
+      <workItem from="1496596432766" duration="1906000" />
+      <workItem from="1496648074918" duration="2331000" />
+      <workItem from="1496650798516" duration="8806000" />
+      <workItem from="1496660747451" duration="1819000" />
+      <workItem from="1496663788329" duration="311000" />
+      <workItem from="1496664120017" duration="3123000" />
+      <workItem from="1496692085499" duration="482000" />
+      <workItem from="1496747511626" duration="10142000" />
+      <workItem from="1588740498843" duration="4828000" />
+      <workItem from="1588746998230" duration="15828000" />
+      <workItem from="1588822957118" duration="16732000" />
+      <workItem from="1588998535482" duration="14073000" />
+      <workItem from="1589086451850" duration="1575000" />
+      <workItem from="1589088352170" duration="718000" />
+      <workItem from="1589091177784" duration="5319000" />
+      <workItem from="1589108693254" duration="318000" />
+      <workItem from="1589173444177" duration="13945000" />
+      <workItem from="1589261595147" duration="5913000" />
+      <workItem from="1589267744829" duration="7011000" />
+      <workItem from="1589291048997" duration="5927000" />
+      <workItem from="1589342576054" duration="9967000" />
+      <workItem from="1589353306513" duration="1228000" />
+      <workItem from="1589357473759" duration="18403000" />
+      <workItem from="1589804151720" duration="6000" />
+      <workItem from="1590040162297" duration="384000" />
+      <workItem from="1590115513900" duration="378000" />
+      <workItem from="1595993357775" duration="2479000" />
+      <workItem from="1596553063045" duration="593000" />
+      <workItem from="1596824750859" duration="5000" />
+      <workItem from="1596879603384" duration="675000" />
+      <workItem from="1596880516136" duration="45000" />
+      <workItem from="1596880754273" duration="7112000" />
+      <workItem from="1596939798436" duration="6435000" />
+      <workItem from="1596960326463" duration="3939000" />
+      <workItem from="1596966031416" duration="3838000" />
+      <workItem from="1598943010699" duration="2032000" />
+      <workItem from="1608611230864" duration="19000" />
+      <workItem from="1608611393136" duration="9757000" />
+      <workItem from="1609050128203" duration="6539000" />
+      <workItem from="1609139424699" duration="4249000" />
+      <workItem from="1609221591333" duration="4244000" />
+      <workItem from="1609308846083" duration="7521000" />
+      <workItem from="1609390749457" duration="10731000" />
+      <workItem from="1609568910192" duration="5862000" />
+      <workItem from="1609648555117" duration="13036000" />
+      <workItem from="1609753355107" duration="13310000" />
+      <workItem from="1609912990322" duration="10927000" />
+      <workItem from="1609929017839" duration="8097000" />
+      <workItem from="1610003251327" duration="3334000" />
+      <workItem from="1610257630826" duration="20913000" />
+      <workItem from="1610356457271" duration="1499000" />
+      <workItem from="1610358115535" duration="394000" />
+      <workItem from="1612587931588" duration="3548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="596067000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="-16" width="3872" height="2116" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3387824" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4224599" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863584" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/html/ac2.php" />
+    <entry file="file://$PROJECT_DIR$/html/logIN.php" />
+    <entry file="file://$PROJECT_DIR$/style/css/logIn.css" />
+    <entry file="file://$PROJECT_DIR$/style/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/style/css/basics.css" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1030">
+          <caret line="124" column="18" lean-forward="false" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/como.html" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/IEWebsite/ieApp/views.py" />
+    <entry file="file://$PROJECT_DIR$/html/loginredic.html" />
+    <entry file="file://$PROJECT_DIR$/html/singIn.html" />
+    <entry file="file://$PROJECT_DIR$/html/logIN.html" />
+    <entry file="file://$PROJECT_DIR$/php/logOut.php" />
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/standard/_superglobals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3003">
+          <caret line="173" column="0" lean-forward="false" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsFiles/scroll.js" />
+    <entry file="file://$PROJECT_DIR$/html/s.html" />
+    <entry file="file://$PROJECT_DIR$/js/jquery/formAnimation.js" />
+    <entry file="file://$PROJECT_DIR$/style/css/mySignup.css" />
+    <entry file="file://$PROJECT_DIR$/js/jquery/acValidation.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery/hiding.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery/sliderPosition.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery/sliderShowHeader.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery/ajax.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery/selectorsJs.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery/slider.js" />
+    <entry file="file://$PROJECT_DIR$/style/css/myLogin.css" />
+    <entry file="file://$PROJECT_DIR$/style/css/myItem.css" />
+    <entry file="file://$PROJECT_DIR$/html/myLogin.php" />
+    <entry file="file://$PROJECT_DIR$/style/css/myNewPost.css" />
+    <entry file="file://$PROJECT_DIR$/html/myNewPost.php" />
+    <entry file="file://$PROJECT_DIR$/html/myItem.php" />
+    <entry file="file://$PROJECT_DIR$/js/jquery/sectionContentAjax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/views_php.php" />
+    <entry file="file://$PROJECT_DIR$/html/mySignup.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/jquery/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="7637" column="4" lean-forward="false" selection-start-line="7637" selection-start-column="4" selection-end-line="7637" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery/categories.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/view_ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6840">
+          <caret line="76" column="52" lean-forward="true" selection-start-line="76" selection-start-column="52" selection-end-line="76" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery/myInit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/css/myHome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="52" column="1" lean-forward="false" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/sp_ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery/viewBtns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="249" column="28" lean-forward="true" selection-start-line="249" selection-start-column="28" selection-end-line="249" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/q_ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery/qBtns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19530">
+          <caret line="695" column="11" lean-forward="true" selection-start-line="695" selection-start-column="11" selection-end-line="695" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/trig_ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/myHome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19800">
+          <caret line="44" column="91" lean-forward="true" selection-start-line="44" selection-start-column="91" selection-end-line="44" selection-end-column="91" />
+          <folding>
+            <marker date="1612587989470" expanded="true" signature="122:185" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery/spBtns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7560">
+          <caret line="360" column="35" lean-forward="true" selection-start-line="360" selection-start-column="35" selection-end-line="360" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery/funcBtns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9349">
+          <caret line="206" column="0" lean-forward="true" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery/trigBtns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="80" lean-forward="false" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/func_ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/DataBaseClass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="537" column="61" lean-forward="true" selection-start-line="537" selection-start-column="61" selection-end-line="537" selection-end-column="61" />
+          <folding>
+            <marker date="1612602630059" expanded="true" signature="368:399" ph="select * fro... art" />
+            <marker date="1612602630059" expanded="true" signature="368:400" ph="select * fro... art" />
+            <marker date="1612602630059" expanded="true" signature="1592:1610" ph="SELECT * FRO... logs" />
+            <marker date="1612602630059" expanded="true" signature="1674:1704" ph="DELETE FROM " />
+            <marker date="1612602630059" expanded="true" signature="1789:1810" ph="SELECT * FRO... message" />
+            <marker date="1612602630059" expanded="true" signature="1875:1924" ph="DELETE FROM " />
+            <marker date="1612602630059" expanded="true" signature="2009:2030" ph="SELECT * FRO... message" />
+            <marker date="1612602630059" expanded="true" signature="2094:2156" ph="UPDATE artis... " />
+            <marker date="1612602630059" expanded="true" signature="2094:2165" ph="UPDATE artis... " />
+            <marker date="1612602630059" expanded="true" signature="2250:2268" ph="SELECT * FRO... logs" />
+            <marker date="1612602630059" expanded="true" signature="2332:2376" ph="DELETE FROM " />
+            <marker date="1612602630059" expanded="true" signature="2461:2482" ph="SELECT * FRO... message" />
+            <marker date="1612602630059" expanded="true" signature="2546:2588" ph="DELETE FROM " />
+            <marker date="1612602630059" expanded="true" signature="2674:2695" ph="SELECT * FRO... message" />
+            <marker date="1612602630059" expanded="true" signature="2759:2797" ph="DELETE FROM " />
+            <marker date="1612602630059" expanded="true" signature="2883:2904" ph="SELECT * FRO... message" />
+            <marker date="1612602630059" expanded="true" signature="3267:3322" ph="SELECT * FRO... f_get_visitor_ed_by_gallery_id" />
+            <marker date="1612602630059" expanded="true" signature="3389:3435" ph="SELECT * FRO... f_get_owner_on_display" />
+            <marker date="1612602630059" expanded="true" signature="3502:3550" ph="SELECT * FRO... f_get_worker_by_art" />
+            <marker date="1612602630059" expanded="true" signature="3617:3664" ph="SELECT * FRO... A" />
+            <marker date="1612602630059" expanded="true" signature="3730:3781" ph="SELECT * FRO... A" />
+            <marker date="1612602630059" expanded="true" signature="3847:3898" ph="SELECT * FRO... A" />
+            <marker date="1612602630059" expanded="true" signature="3964:3993" ph="SELECT * FRO... A" />
+            <marker date="1612602630059" expanded="true" signature="4059:4112" ph="SELECT * FRO... A" />
+            <marker date="1612602630059" expanded="true" signature="4178:4227" ph="SELECT * FRO... A" />
+            <marker date="1612602630059" expanded="true" signature="4294:4345" ph="SELECT * FRO... A" />
+            <marker date="1612602630059" expanded="true" signature="7754:7780" ph="select * fro... v_art_artist" />
+            <marker date="1612602630059" expanded="true" signature="7844:7871" ph="select * fro... v_art_gallery" />
+            <marker date="1612602630059" expanded="true" signature="7935:7970" ph="select * fro... v_art_ownership_owner" />
+            <marker date="1612602630059" expanded="true" signature="8034:8076" ph="select * fro... v_art_artist_ownership_owner" />
+            <marker date="1612602630059" expanded="true" signature="8140:8183" ph="select * fro... v_art_ownership_owner_gallery" />
+            <marker date="1612602630059" expanded="true" signature="8247:8290" ph="select * fro... v_art_painting_writing_statue" />
+            <marker date="1612602630059" expanded="true" signature="8354:8396" ph="select * fro... v_art_gallery_holding_museum" />
+            <marker date="1612602630059" expanded="true" signature="8460:8517" ph="select * fro... v_visitor_visitation_gallery_holding_museum" />
+            <marker date="1612602630059" expanded="true" signature="8581:8623" ph="select * fro... v_visitor_visitation_gallery" />
+            <marker date="1612602630059" expanded="true" signature="8688:8716" ph="select * fro... v_staff_museum" />
+            <marker date="1612602630059" expanded="true" signature="8781:8809" ph="select * fro... v_art_painting" />
+            <marker date="1612602630059" expanded="true" signature="8874:8900" ph="select * fro... v_art_statue" />
+            <marker date="1612602630059" expanded="true" signature="8965:8992" ph="select * fro... v_art_writing" />
+            <marker date="1612602630059" expanded="true" signature="9057:9095" ph="select * fro... v_gallery_holding_museum" />
+            <marker date="1612602630059" expanded="true" signature="9160:9208" ph="select * fro... v_art_gallery_holding_museum_staff" />
+            <marker date="1612602630059" expanded="true" signature="9623:9663" ph="SELECT * FRO... " />
+            <marker date="1612602630059" expanded="true" signature="9623:9671" ph="SELECT * FRO... " />
+            <marker date="1612602630059" expanded="true" signature="9737:9788" ph="SELECT *FROM... " />
+            <marker date="1612602630059" expanded="true" signature="9853:9991" ph="SELECT * FRO... " />
+            <marker date="1612602630059" expanded="true" signature="10057:10193" ph="SELECT *FROM... " />
+            <marker date="1612602630059" expanded="true" signature="10259:10411" ph="SELECT * FRO... " />
+            <marker date="1612602630059" expanded="true" signature="10476:10727" ph="SELECT owner... " />
+            <marker date="1612602630059" expanded="true" signature="10791:11107" ph="SELECT staff... " />
+            <marker date="1612602630059" expanded="true" signature="11171:11383" ph="SELECT * FRO... " />
+            <marker date="1612602630059" expanded="true" signature="11447:11708" ph="SELECT * FRO... " />
+            <marker date="1612602630059" expanded="true" signature="11447:11709" ph="SELECT * FRO... " />
+            <marker date="1612602630059" expanded="true" signature="11774:11988" ph="SELECT * FRO... " />
+            <marker date="1612602630059" expanded="true" signature="12053:12286" ph="SELECT * FRO... " />
+            <marker date="1612602630059" expanded="true" signature="12351:12582" ph="SELECT * FRO... " />
+            <marker date="1612602630059" expanded="true" signature="12647:12797" ph="SELECT owner... " />
+            <marker date="1612602630059" expanded="true" signature="12862:12924" ph="SELECT * FRO... " />
+            <marker date="1612602630059" expanded="true" signature="12989:13243" ph="SELECT visit... " />
+            <marker date="1612602630059" expanded="true" signature="13308:13543" ph="SELECT owner... " />
+            <marker date="1612602630059" expanded="true" signature="13608:13848" ph="SELECT owner... " />
+            <marker date="1612602630059" expanded="true" signature="13913:14151" ph="SELECT owner... " />
+            <marker date="1612602630059" expanded="true" signature="14216:14441" ph="SELECT owner... " />
+            <marker date="1612602630059" expanded="true" signature="14506:14642" ph="SELECT artis... " />
+            <marker date="1612602630059" expanded="true" signature="14707:14903" ph="SELECT artis... " />
+            <marker date="1612602630059" expanded="true" signature="14968:15169" ph="SELECT artis... " />
+            <marker date="1612602630059" expanded="true" signature="15234:15433" ph="SELECT artis... " />
+            <marker date="1612602630059" expanded="true" signature="15498:15642" ph="SELECT * FRO... " />
+            <marker date="1612602630059" expanded="true" signature="15707:15872" ph="SELECT visit... " />
+            <marker date="1612602630059" expanded="true" signature="15937:15993" ph="SELECT staff... " />
+            <marker date="1612602630059" expanded="true" signature="16058:16111" ph="SELECT staff... " />
+            <marker date="1612602630059" expanded="true" signature="16176:16222" ph="DELETE FROM " />
+            <marker date="1612602630059" expanded="true" signature="16374:16430" ph="DELETE FROM " />
+            <marker date="1612602630059" expanded="true" signature="16582:16638" ph="DELETE FROM " />
+            <marker date="1612602630059" expanded="true" signature="16790:16842" ph="DELETE FROM " />
+            <marker date="1612602630059" expanded="true" signature="16994:17048" ph="DELETE FROM " />
+            <marker date="1612602630059" expanded="true" signature="17200:17408" ph="INSERT INTO " />
+            <marker date="1612602630059" expanded="true" signature="17560:17718" ph="INSERT INTO " />
+            <marker date="1612602630059" expanded="true" signature="17870:17954" ph="INSERT INTO " />
+            <marker date="1612602630059" expanded="true" signature="18106:18295" ph="INSERT INTO " />
+            <marker date="1612602630059" expanded="true" signature="18447:18662" ph="INSERT INTO " />
+            <marker date="1612602630059" expanded="true" signature="18814:19053" ph="INSERT INTO " />
+            <marker date="1612602630059" expanded="true" signature="19205:19430" ph="INSERT INTO " />
+            <marker date="1612602630059" expanded="true" signature="19582:19706" ph="INSERT INTO " />
+            <marker date="1612602630059" expanded="true" signature="19858:19975" ph="INSERT INTO " />
+            <marker date="1612602630059" expanded="true" signature="20128:20291" ph="INSERT INTO " />
+            <marker date="1612602630059" expanded="true" signature="20661:20729" ph="UPDATE writi... " />
+            <marker date="1612602630059" expanded="true" signature="20882:20954" ph="UPDATE paint... " />
+            <marker date="1612602630059" expanded="true" signature="21418:21469" ph="select * fro... users" />
+            <marker date="1612602630059" expanded="true" signature="21495:21583" ph="select * fro... users" />
+            <marker date="1612602630059" expanded="true" signature="21811:21868" ph="select user_... users" />
+            <marker date="1612602630059" expanded="true" signature="22334:22385" ph="select * fro... users" />
+            <marker date="1612602630059" expanded="true" signature="22412:22463" ph="select * fro... users" />
+            <marker date="1612602630059" expanded="true" signature="22489:22666" ph="INSERT INTO users... " />
+            <marker date="1612602630059" expanded="true" signature="23076:23133" ph="select user_... users" />
+            <marker date="1612602630059" expanded="true" signature="23333:23433" ph="INSERT INTO items... " />
+            <marker date="1612602630059" expanded="true" signature="23333:23451" ph="INSERT INTO items... " />
+            <marker date="1612602630059" expanded="true" signature="23333:23472" ph="INSERT INTO items... " />
+            <marker date="1612602630059" expanded="true" signature="23333:23489" ph="INSERT INTO items... " />
+            <marker date="1612602630059" expanded="true" signature="23333:23504" ph="INSERT INTO items... " />
+            <marker date="1612602630059" expanded="true" signature="23333:23506" ph="INSERT INTO items... " />
+            <marker date="1612602630059" expanded="true" signature="23333:23523" ph="INSERT INTO story... " />
+            <marker date="1612602630059" expanded="true" signature="23659:23702" ph="select * fro... items" />
+            <marker date="1612602630059" expanded="true" signature="23659:23717" ph="select * fro... items" />
+            <marker date="1612602630059" expanded="true" signature="23659:23736" ph="select * fro... items" />
+            <marker date="1612602630059" expanded="true" signature="23659:23754" ph="select * fro... items" />
+            <marker date="1612602630059" expanded="true" signature="23659:23769" ph="select * fro... items" />
+            <marker date="1612602630059" expanded="true" signature="23659:23783" ph="select * fro... items" />
+            <marker date="1612602630059" expanded="true" signature="23659:23798" ph="select * fro... items" />
+            <marker date="1612602630059" expanded="true" signature="23659:23812" ph="select * fro... items" />
+            <marker date="1612602630059" expanded="true" signature="23659:23829" ph="select * fro... items" />
+            <marker date="1612602630059" expanded="true" signature="23659:23845" ph="select * fro... items" />
+            <marker date="1612602630059" expanded="true" signature="23974:24024" ph="select * fro... story" />
+            <marker date="1612602630059" expanded="true" signature="24228:24280" ph="select * fro... users" />
+            <marker date="1612602630059" expanded="true" signature="24830:24844" ph="select * fro... story" />
+            <marker date="1612602630059" expanded="true" signature="24830:24849" ph="select * fro... items" />
+            <marker date="1612602630059" expanded="true" signature="24898:24951" ph="select * fro... story" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24447279" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24447279" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24447279" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jquery-3.2.1.min</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24447279" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.8.3rc1 (C:\Users\asus\AppData\Local\Programs\Python\Python38\python.exe)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24447279" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>onlineShop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24447279" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jquery-3.2.1.min (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24447279" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
